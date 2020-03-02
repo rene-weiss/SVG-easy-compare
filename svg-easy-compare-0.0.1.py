@@ -46,7 +46,6 @@ import os
 # GLOBALS
 global dpi  # int
 global threshold  # float
-# global file_names  # list : Contains all the files names to check (WITH .SVG EXTENSION !!!).
 global file_percentage  # dict : Contains the file name with associated difference percentage.
 global folder_1  # str
 global folder_2  # str
