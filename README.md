@@ -43,3 +43,8 @@ Tkinter should come bundled with your system.
 This script also uses "*glob*", "*os*" and "*datetime*".
 
 # Feel free to help me to improve this script for those in need, but remmeber to keep it easy to understand.
+
+
+# Thanks to: lululock71 great job!
+
+
